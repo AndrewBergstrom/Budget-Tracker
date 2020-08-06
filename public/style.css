@@ -32,7 +32,7 @@ input:focus {
 }
 
 button {
-  background: lightgray;
+  background: cadetblue;
   border: none;
   border-radius: 4px;
   cursor: pointer;
